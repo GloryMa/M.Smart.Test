@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MST.Launch", "MST.Launch\MST.Launch.csproj", "{3D45A618-8B7D-463E-9680-21E8A80070EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MST.Engine", "MST.Engine\MST.Engine.csproj", "{67A1768F-1F43-485F-8757-1A774E05A299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MST.Email", "MST.Email\MST.Email.csproj", "{29A62A21-DC6E-48E5-9983-6020054AE826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D45A618-8B7D-463E-9680-21E8A80070EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D45A618-8B7D-463E-9680-21E8A80070EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D45A618-8B7D-463E-9680-21E8A80070EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D45A618-8B7D-463E-9680-21E8A80070EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A1768F-1F43-485F-8757-1A774E05A299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A1768F-1F43-485F-8757-1A774E05A299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A1768F-1F43-485F-8757-1A774E05A299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A1768F-1F43-485F-8757-1A774E05A299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A62A21-DC6E-48E5-9983-6020054AE826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A62A21-DC6E-48E5-9983-6020054AE826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A62A21-DC6E-48E5-9983-6020054AE826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A62A21-DC6E-48E5-9983-6020054AE826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
